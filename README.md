@@ -15,7 +15,7 @@ Projeto criado de uma fã para os fãs da Billie Eilish.
 
 O Quiz é uma aplicação web de perguntas e respostas com contador de acertos para testar seu nível de conhecimento sobre a Cantora Billie Eilish.
 
-<p> Você pode acessar o projeto clicando <a href="" target="_blank">AQUI</a>! </p>
+<p> Você pode acessar o projeto clicando <a href="larissak0.github.io/quiz-billieeilish/" target="_blank">AQUI</a>! </p>
 
 ## 🚀 Tecnologias
 
